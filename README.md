@@ -25,13 +25,13 @@ Além disso, a API possui documentação utilizando Swagger (OpenAPI).
 ```
 RoutineX-Back-end/
 │
+├── .gitignore
 ├── app.py
 ├── database.db
 ├── database.py
 ├── requirements.txt
 ├── routes.py
-├── swagger.py
-└── .gitignore
+└── swagger.py
 ```
 
 ---
